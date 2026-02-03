@@ -1,4 +1,4 @@
-# 📊 Global Retail Superstore Sales Analytics Dashboard
+# 📊 USA Retail Superstore Sales Analytics Dashboard
 
 ## 🔍 Project Overview
 This project analyzes sales, profitability, regional performance, and operational efficiency for a multi-region retail superstore operating across the United States.
