@@ -10,7 +10,6 @@ The objective was to design role-based dashboards tailored for different busines
 
 The dashboards convert raw transactional data into actionable business insights.
 
----
 
 ## 🗂 Dataset Description
 The dataset represents a retail superstore selling:
@@ -25,11 +24,9 @@ It includes:
 - Sales, Profit, Shipping Cost
 - Order Priority & Ship Mode
 
----
 
 ## 📈 Dashboards & Business Use Cases
 
----
 
 ### 1️⃣ Sales Performance Dashboard
 **Business Question:**  
@@ -46,7 +43,6 @@ How is the business performing overall and which categories and customers drive 
 
 **Target Users:** Sales Managers, Business Analysts
 
----
 
 ### 2️⃣ Regional Manager Dashboard
 **Business Question:**  
@@ -63,7 +59,6 @@ Which regions, states and cities contribute the most to sales and profit?
 
 **Target Users:** Regional Managers, Strategy Teams
 
----
 
 ### 3️⃣ Operational & Ship Mode Dashboard
 **Business Question:**  
@@ -80,7 +75,6 @@ How efficient are shipping operations and where can costs be optimized?
 
 **Target Users:** Operations & Supply Chain Teams
 
----
 
 ## 🛠 Tools & Skills Used
 - Microsoft Excel (Pivot Tables, Pivot Charts, Slicers)
@@ -89,7 +83,6 @@ How efficient are shipping operations and where can costs be optimized?
 - Dashboard Design & Visual Storytelling
 - Stakeholder-Oriented Reporting
 
----
 
 ## 📌 Key Takeaways
 - Built role-specific dashboards aligned with real business use cases
